@@ -1,0 +1,52 @@
+body{
+	font-family: "Roboto", sans-serif;
+	font-size: 16px;
+	line-height: 24px;
+	font-weight: 400;
+	color:#163152;
+	font-style: normal;
+	background-color: #FDFDFF;
+}
+h1{
+	font-size:  44px;
+	line-height: 60px;
+	font-style: itaiic;
+	text-transform: uppercase;
+}
+h2{
+	font-size: 24px;
+	line-height: 34px;
+	font-weight: bold;
+}
+h3{
+	font-size: 16px;
+	line-height: px;
+	font-weight: bold;
+}
+.site-navigation-item{
+	font-size: 14px;
+	line-height: 18px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+.date{
+	font-size: 14px;
+	line-height: 18px;
+	text-transform: uppercase;
+}
+.address, .phone, .mail{
+	font-size: 16px;
+	line-height: 22px;
+	color: #163152;
+	text-decoration: none;
+}
+h2.underline{
+	text-decoration: underline;
+	text-decoration-color: #00C6BD;
+	text-decoration-thickness: 2px;
+	text-underline-offset: 25px;
+}
+ul.main-contacts li {
+    line-height: 22px;
+}
+
