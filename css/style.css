@@ -20,7 +20,7 @@ h2{
 }
 h3{
 	font-size: 16px;
-	line-height: px;
+	line-height: 22px;
 	font-weight: bold;
 }
 .site-navigation-item{
@@ -44,9 +44,45 @@ h2.underline{
 	text-decoration: underline;
 	text-decoration-color: #00C6BD;
 	text-decoration-thickness: 2px;
-	text-underline-offset: 25px;
+	text-underline-offset: 20px;
 }
 ul.main-contacts li {
     line-height: 22px;
 }
-
+.news{
+	font-size: 18px;
+	line-height: 26px;
+}
+.news h2{
+	text-align: center;
+}
+.news h3{
+	font-size: 22px;
+	font-weight: bold;
+}
+.news .teams{
+	font-size: 20px;
+	font-weight: bold;
+}
+blockquote{
+	font-size: 26px;
+	line-height: 36px;
+	font-weight: bold;
+}
+.news .name{
+	font-size: 16px;
+	line-height: 19px;
+	font-weight: bold;
+}
+.news p.date{
+	font-size: 16px;
+	line-height: 19px;
+	text-transform: none;
+	color: #8693A4;
+}
+figcaption.date{
+	font-size: 16px;
+	line-height: 19px;
+	color: #8693A4;
+	text-transform: none;
+}
